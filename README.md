@@ -17,6 +17,11 @@
 - 可記錄帳號、角色資訊，並協助登入遊戲。
 - 連網功能只用來檢查本軟體更新、載入網頁登入與酷碰登錄頁。
 
+## 預覽
+<img width="732" height="913" alt="2026-10-28_030600" src="https://github.com/user-attachments/assets/0d299fae-9658-4f64-adfb-034905d85d6b" />
+<img width="900" height="988" alt="2026-10-28_030621" src="https://github.com/user-attachments/assets/026b4f3d-b7af-43ea-ac1e-4005fc1d8002" />
+<img width="1400" height="1063" alt="2026-10-28_030617" src="https://github.com/user-attachments/assets/402784ea-b25f-43c9-b91b-8524b80b1622" />
+
 ## 主要功能
 
 ### 帳號管理
