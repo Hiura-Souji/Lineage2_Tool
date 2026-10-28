@@ -20,7 +20,8 @@
 ## 預覽
 <img width="732" height="913" alt="2026-10-28_030600" src="https://github.com/user-attachments/assets/0d299fae-9658-4f64-adfb-034905d85d6b" />
 <img width="1400" height="1063" alt="2026-10-28_030617" src="https://github.com/user-attachments/assets/402784ea-b25f-43c9-b91b-8524b80b1622" />
-<img width="900" height="988" alt="2026-10-28_030621" src="https://github.com/user-attachments/assets/026b4f3d-b7af-43ea-ac1e-4005fc1d8002" />
+<img width="900" height="988" alt="2026-10-28_155819" src="https://github.com/user-attachments/assets/c83bf308-42c6-4915-8f9a-228d7b69fe2a" />
+
 
 ## 主要功能
 
