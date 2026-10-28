@@ -203,6 +203,6 @@ Lineage2ool_v3.0.0.0/
 - 強烈建議設定登入密碼。
 - 作者不負擔使用本程式所產生的任何問題，包括但不限於帳密外流。
 - 版權所有，未經作者同意，不得破解、反編譯、再次開發或修改，後果自負。
-- 若本軟體對您有幫助，歡迎捐贈支持作者（綠界 ECPay）：<https://p.ecpay.com.tw/580B0>
+- 若本軟體對您有幫助，歡迎捐贈支持作者（Portaly）：<https://portaly.cc/grayfree/support>
 
 Copyright © 2026 SHIWASU KAKERU
