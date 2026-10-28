@@ -167,3 +167,5 @@
 - 若本軟體對您有幫助，歡迎捐贈支持作者（Portaly）：<https://portaly.cc/grayfree/support>
 
 Copyright © 2026 SHIWASU KAKERU
+
+<a href="https://portaly.cc/grayfree/support"><img src="donate_badge.png" alt="贊助作者" width="164"></a>
