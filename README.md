@@ -137,47 +137,6 @@
 
 ---
 
-## 檔案結構
-
-```
-Lineage2ool_v3.0.0.0/
-├─ Lineage2ool.au3        主程式：載入模組 → 建立主視窗 → 啟動流程 → 主迴圈 → 結束清理
-├─ l2.ico / l2_a.ico / l2_b.ico
-└─ Inc/
-   ├─ AUI.au3             AUI 介面函式庫
-   ├─ Globals.au3         全域變數與常數（最先載入）
-   ├─ Core.au3            事件佇列、計時器、日誌
-   ├─ Vault.au3           主金鑰管理（PBKDF2、DPAPI、復原金鑰）
-   ├─ Database.au3        加密資料庫 lineage_data.db
-   ├─ Migration.au3       從 eL2.mdb 一次性轉入
-   ├─ LegacyCryptoKeys.au3  舊版固定金鑰（僅供轉換）
-   ├─ Totp.au3            TOTP 動態驗證碼
-   ├─ SqliteRuntime.au3 / SqliteRuntimeData.au3
-   │                      SQLite 元件檢查；缺少時由內嵌資料釋出，必要時從 GitHub 下載
-   ├─ TableIO.au3         CSV / XLSX / XLS 讀寫
-   ├─ Dialogs.au3         訊息框、確認框、輸入框
-   ├─ Window.au3          視窗建立、標題列、磁吸、重繪補償
-   ├─ Theme.au3           主題、強調色、介面偏好
-   ├─ Drawer.au3          左側抽屜選單
-   ├─ FontPicker.au3      字型選擇
-   ├─ Auth.au3            啟動流程、登入、初次設定、復原、登入保護開關
-   ├─ MainView.au3        卡片主畫面、OTP 顯示、複製
-   ├─ Input.au3           滑鼠鉤子（滾輪、右鍵、側鍵）與全域快捷鍵
-   ├─ Sorting.au3         手動排序
-   ├─ Editor.au3          新增／編輯帳號、卡片顏色
-   ├─ Groups.au3          自訂群組
-   ├─ Manager.au3         完整管理視窗
-   ├─ ImportExport.au3    匯入匯出與批次作業
-   ├─ GameLogin.au3       半自動登入遊戲
-   ├─ WebLogin.au3        網頁登入（WebView）
-   ├─ Coupon.au3          批次登錄酷碰序號
-   ├─ Donate.au3          捐贈作者（QR Code 與綠界連結）
-   ├─ Tools.au3           L2 小工具
-   ├─ About.au3           關於視窗
-   ├─ Update.au3          線上檢查更新
-   └─ Events.au3          UI 事件入口
-```
-
 ### 執行時產生的檔案
 
 | 檔案或資料夾 | 內容 |
